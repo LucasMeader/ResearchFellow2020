@@ -1,3 +1,6 @@
+%% This code analyses the full width half maximum for every ball in a given test image. 
+%% This allows for faster analysis of simulated image.
+
 clear;
 close all;
 clc;
